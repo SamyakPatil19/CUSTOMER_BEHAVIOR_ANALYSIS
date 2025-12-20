@@ -1,46 +1,51 @@
-# CUSTOMER_BEHAVIOR_ANALYSIS
-📊 Data Analytics Project – Customer Behavior Analysis
-🔍 Project Overview
+# 👨🏻‍💻Customer Behavior Data Analyst Project
 
-This project demonstrates an end-to-end data analytics workflow using customer behavior data. It includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based querying, and interactive visualization through a Power BI dashboard. The insights are summarized in a structured analytical report and a professional presentation created using Gamma.
-Repository: https://github.com/SamyakPatil19/CUSTOMER_BEHAVIOR_ANALYSIS
+## 📌Project Overview
+This project presents an **end-to-end data analytics solution** focused on understanding customer behavior through data-driven insights.  
+The workflow covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis across relational databases, and interactive visualization using Power BI.  
 
-🛠️ Technology Used
 
-Python – Data ingestion, EDA, and cleaning (Pandas, NumPy, Matplotlib, Seaborn)
+## Technologies Used
+- **Python** – Data ingestion, EDA, and data preprocessing  
+  *(Pandas, NumPy, Matplotlib, Seaborn)*  
+- **SQL** – Analytical queries using  *PostgreSQL*  
+- **Power BI** – Interactive dashboards and KPI visualization  
+- **Jupyter Notebook** – Development environment  
 
-SQL – Analysis using MySQL
 
-Jupyter Notebook – Development environment
+## 🛠️ How to Run
 
-Power BI – Dashboard visualization
-
-Gamma – Presentation creation
-
-▶️ How to Run
-
-Clone the repository:
-
+### 1. Clone the Repository
+```bash
 git clone https://github.com/SamyakPatil19/CUSTOMER_BEHAVIOR_ANALYSIS
-
-
-Install required Python libraries:
-
+```
+### 2. Install Required Python Libraries
+```bash
 pip install pandas numpy matplotlib seaborn sqlalchemy
+```
+### 3. Run the Jupyter Notebook
+  Load the dataset
+
+  Perform Exploratory Data Analysis (EDA)
+
+  Clean and preprocess the data
+
+### 4. Database Analysis
+
+Import the cleaned dataset into:
+
+PostgreSQL
+
+MySQL
+
+SQL Server
+
+Execute the provided SQL queries
+
+### 5. Visualization
+
+Open the Power BI file to explore the interactive dashboard
 
 
-Open and run the Jupyter Notebook to perform:
-
-Data loading
-
-EDA
-
-Data cleaning
-
-Load the cleaned dataset into PostgreSQL / MySQL / SQL Server.
-
-Execute the SQL scripts included in the repository.
-
-Open the Power BI file to explore the interactive dashboard.
-
-Review the analytical report and Gamma presentation for key insights.
+## 📜Licence
+MIT — feel free to fork, star, and use in your portfolio.
