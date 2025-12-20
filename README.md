@@ -1,27 +1,27 @@
 # CUSTOMER_BEHAVIOR_ANALYSIS
-📊 Data Analytics Project
+📊 Data Analytics Project – Customer Behavior Analysis
 🔍 Project Overview
 
-This project showcases an end-to-end data analytics workflow, starting from raw data ingestion to insight delivery. The dataset is analyzed using Python for exploratory data analysis and cleaning, queried using SQL across relational databases, and visualized through an interactive Power BI dashboard.
-The project concludes with a structured analytical report and a professional presentation created using Gamma, demonstrating the ability to communicate insights effectively to stakeholders.
+This project demonstrates an end-to-end data analytics workflow using customer behavior data. It includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based querying, and interactive visualization through a Power BI dashboard. The insights are summarized in a structured analytical report and a professional presentation created using Gamma.
+Repository: https://github.com/SamyakPatil19/CUSTOMER_BEHAVIOR_ANALYSIS
 
 🛠️ Technology Used
 
-Python – Data loading, EDA, and data cleaning (Pandas, NumPy, Matplotlib, Seaborn)
+Python – Data ingestion, EDA, and cleaning (Pandas, NumPy, Matplotlib, Seaborn)
 
-SQL – Data analysis using PostgreSQL / MySQL / SQL Server
+SQL – Analysis using MySQL
 
-Power BI – Interactive dashboards and KPI visualization
+Jupyter Notebook – Development environment
 
-Gamma – Presentation (PPT) creation
+Power BI – Dashboard visualization
 
-Jupyter Notebook / VS Code – Development environment
+Gamma – Presentation creation
 
 ▶️ How to Run
 
 Clone the repository:
 
-git clone <repository-link>
+git clone https://github.com/SamyakPatil19/CUSTOMER_BEHAVIOR_ANALYSIS
 
 
 Install required Python libraries:
@@ -29,7 +29,7 @@ Install required Python libraries:
 pip install pandas numpy matplotlib seaborn sqlalchemy
 
 
-Run the Jupyter Notebook to perform:
+Open and run the Jupyter Notebook to perform:
 
 Data loading
 
@@ -39,8 +39,8 @@ Data cleaning
 
 Load the cleaned dataset into PostgreSQL / MySQL / SQL Server.
 
-Execute the SQL queries provided.
+Execute the SQL scripts included in the repository.
 
-Open the Power BI file to explore the dashboard.
+Open the Power BI file to explore the interactive dashboard.
 
-Review the report and Gamma presentation for summarized insights.
+Review the analytical report and Gamma presentation for key insights.
